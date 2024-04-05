@@ -1,1 +1,1 @@
-# grpc_mq_transport
+# grpc-mq-transport
